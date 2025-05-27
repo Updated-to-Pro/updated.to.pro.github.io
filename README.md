@@ -13,4 +13,4 @@ I like to dance and read books.
 
 ## My favorite food recipies 
    -  [Best Quesadillas ever! ](https://www.simplyrecipes.com/recipes/quesadilla/) This wesite has lots of good Mexican food.
-   -  [Super tasty Lasagna! ](https://bakerbynature.com/the-best-homemade-lasagna-recipe/) I like to use thi website for different ways to cook pasta. 
+   -  [Super tasty Lasagna! ](https://bakerbynature.com/the-best-homemade-lasagna-recipe/) I like to use this website for different ways to cook pasta. 
