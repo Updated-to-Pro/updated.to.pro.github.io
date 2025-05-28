@@ -15,7 +15,7 @@ flowchart TD
 ```
 1. Start Game – The game begins running.
 
-2. Generate Random Number – The program picks a number
+2. Generate Random Number – The program picks a number between 1-100
    
 3. User Makes a Guess – The user is prompted to input a guess.
 
